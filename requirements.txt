@@ -1,0 +1,9 @@
+scanpy
+pandas
+numpy
+streamlit
+plotly
+matplotlib
+scipy
+anndata
+scikit-learn
